@@ -2,7 +2,7 @@
 
 
 
-Орчин: Уншлагын жагсаалт v2.0, curl.exe (Windows PowerShell), Windows <хувилбар>, 2026-10-16
+Орчин: Уншлагын жагсаалт v2.0, curl.exe (Windows PowerShell), Windows 11 Pro 25H2, 2026-10-16
 
 
 
