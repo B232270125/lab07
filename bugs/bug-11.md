@@ -1,4 +1,4 @@
-\# BUG-11: POST /api/books руу буруу (дутуу) JSON илгээхэд сервер 400 биш, `200 OK` буцаадаг
+# BUG-11: POST /api/books руу буруу (дутуу) JSON илгээхэд сервер 400 биш, `200 OK` буцаадаг
 
 
 
@@ -10,23 +10,23 @@
 
 
 
-\## Дахин гаргах алхам
+## Дахин гаргах алхам
 
 
 
-1\. PowerShell-д `node app.js` ажиллуулна (шинээр асаасан байх ёстой).
+1. PowerShell-д `node app.js` ажиллуулна (шинээр асаасан байх ёстой).
 
-2\. Өөр PowerShell цонх нээж, төслийн хавтас руу орно: `cd $HOME\\Documents\\lab07`
+2. Өөр PowerShell цонх нээж, төслийн хавтас руу орно: `cd $HOME\Documents\lab07`
 
-3\. Санаатайгаар дутуу (хаагдаагүй) JSON-тай файл үүсгэнэ:
+3. Санаатайгаар дутуу (хаагдаагүй) JSON-тай файл үүсгэнэ:
 
-&#x20;  `'{"title": "Тест", "author": ' | Set-Content -Encoding ascii body.json`
+  `'{"title": "Тест", "author": ' | Set-Content -Encoding ascii body.json`
 
-4\. Хүсэлт илгээнэ:
+4. Хүсэлт илгээнэ:
 
-&#x20;  `curl.exe -s -i -X POST http://localhost:3000/api/books -H "Content-Type: application/json" --data-binary "@body.json"`
+  `curl.exe -s -i -X POST http://localhost:3000/api/books -H "Content-Type: application/json" --data-binary "@body.json"`
 
-5\. Хариуны эхний мөр (статус) болон биеийг харна.
+5. Хариуны эхний мөр (статус) болон биеийг харна.
 
 
 
