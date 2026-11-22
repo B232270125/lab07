@@ -2,7 +2,7 @@
 
 
 
-Орчин: Уншлагын жагсаалт v2.0, Chrome, Windows 11 Pro 25H2, 2026-10-16
+Орчин: Уншлагын жагсаалт v2.0, Opera One, Windows 11 Pro 25H2, 2026-10-16
 
 
 
@@ -40,6 +40,8 @@
 
 
 Хавсралт: screenshots/bug-04.png
+
+![BUG-04](../screenshots/bug-04.png)
 
 
 

@@ -2,7 +2,7 @@
 
 
 
-Орчин: Уншлагын жагсаалт v2.0, Chrome, Windows 11 Pro 25H2, 2026-10-16
+Орчин: Уншлагын жагсаалт v2.0, Opera One, Windows 11 Pro 25H2, 2026-10-16
 
 
 
@@ -36,15 +36,15 @@
 
 Бодит үр дүн:
 
-\- `Clean` → «Clean Code» гарна
+- `Clean` → «Clean Code» гарна
 
-\- `clean` → юу ч гарахгүй, хүснэгт хоосон
+- `clean` → юу ч гарахгүй, хүснэгт хоосон
 
-\- `CLEAN` → юу ч гарахгүй, хүснэгт хоосон
+- `CLEAN` → юу ч гарахгүй, хүснэгт хоосон
 
-\- `martin` → юу ч гарахгүй
+- `martin` → юу ч гарахгүй
 
-\- `Martin` → «Clean Code» гарна
+- `Martin` → «Clean Code» гарна
 
 
 
@@ -53,6 +53,8 @@
 
 
 Хавсралт: screenshots/bug-05.png
+
+![BUG-05](../screenshots/bug-05.png)
 
 
 
